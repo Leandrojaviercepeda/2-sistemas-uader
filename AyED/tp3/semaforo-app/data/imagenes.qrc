@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="imgSemaforo">
+    <file>SemaforoImages/Amarillo - copia.png</file>
+    <file>SemaforoImages/Amarillo.png</file>
+    <file>SemaforoImages/Icono.jpg</file>
+    <file>SemaforoImages/Icono.png</file>
+    <file>SemaforoImages/Rojo.png</file>
+    <file>SemaforoImages/traffic-light-157459_960_720 (1).png</file>
+    <file>SemaforoImages/Verde.png</file>
+  </qresource>
+</RCC>

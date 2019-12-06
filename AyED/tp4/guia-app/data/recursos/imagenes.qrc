@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="imagenes">
+        <file>basura.PNG</file>
+        <file>guia-app.png</file>
+        <file>listar.png</file>
+        <file>editar.png</file>
+        <file>borrar.png</file>
+        <file>buscar.png</file>
+        <file>lapiz.png</file>
+        <file>agregar.png</file>
+        <file>lupa.png</file>
+        <file>mas.PNG</file>
+        <file>lista.PNG</file>
+    </qresource>
+</RCC>
